@@ -1,6 +1,6 @@
 # Raya
 
-![Raya App](https://github.com/Y7EA/Raya/assets/87653635/e6c97994-6e6f-4549-8070-df4b6bba3f45)
+![Raya App](https://github.com/Y7EA/Raya/assets/87653635/069f247e-b838-468f-be05-3ad4b06fdbcd)
 
 Raya App is an iPhone application developed using Swift that aims to provide a WhatsApp-like & Telegram  messaging experience. It allows users to send text messages, images, and videos to their contacts in real-time.
 
@@ -16,11 +16,11 @@ Raya App is an iPhone application developed using Swift that aims to provide a W
 - Channels for broadcasting messages and announcements
 
 ## Images
-![Picture2](https://github.com/Y7EA/Raya/assets/87653635/c0e6269d-e12b-498e-97b2-7cc283aa6d56)
-![Picture3](https://github.com/Y7EA/Raya/assets/87653635/bdc76164-6d76-4fa1-9208-f312c73bb471)
-![Picture1](https://github.com/Y7EA/Raya/assets/87653635/88e4024d-49b5-4931-b864-754495c726e3)
-<img width="1440" alt="Screenshot 2023-05-17 at 10 24 35 PM" src="https://github.com/Y7EA/Raya/assets/87653635/716f3a5e-60b8-454b-9f9d-b62e404be0ff">
-<img width="1440" alt="Screenshot 2023-05-17 at 10 24 40 PM" src="https://github.com/Y7EA/Raya/assets/87653635/db0a0502-f66d-49cc-8000-b9d7c16b3fd8"> 
+![Picture2](https://github.com/Y7EA/Raya/assets/87653635/ade855b2-505c-4655-8d7b-9f924e13bfef)
+![Picture3](https://github.com/Y7EA/Raya/assets/87653635/8e348e64-6a44-4e73-b97c-5130c2738e94)
+![Picture1](https://github.com/Y7EA/Raya/assets/87653635/6d5c1d5e-09fe-4742-9d02-cc11577541ec)
+<img width="1440" alt="Screenshot 2023-05-17 at 10 24 40 PM" src="https://github.com/Y7EA/Raya/assets/87653635/1919a972-601e-487d-974e-f148cec2a0af">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 24 50 PM" src="https://github.com/Y7EA/Raya/assets/87653635/d3f96839-dee5-4af8-8fd7-8809d357cabb">
 
 ## Installation
 
