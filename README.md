@@ -1,8 +1,8 @@
-# Raya
+# Raya Chat Application
 
 ![Raya App](https://github.com/Y7EA/Raya/assets/87653635/069f247e-b838-468f-be05-3ad4b06fdbcd)
 
-Raya App is an iPhone application developed using Swift that aims to provide a WhatsApp-like & Telegram  messaging experience. It allows users to send text messages, images, and videos to their contacts in real-time.
+Raya App is an iPhone application developed using Swift that aims to provide a WhatsApp-like & Telegram  messaging experience. It allows users to send text messages, images, and videos to their contacts at real-time.
 
 ## Features
 
@@ -52,6 +52,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-For any questions or feedback, please reach out to the at me.
+For any questions or feedback, please contact us.
 
 Thank you for your interest in the Raya App!
